@@ -5,6 +5,7 @@
 * 购买阿里云对象存储
 * 查看app...key 和ID
 * yarn add ali-oss/npm install ali-oss
+
 1.HTML代码片段
 ``` HTML
 <el-upload
