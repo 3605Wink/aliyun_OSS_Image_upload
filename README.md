@@ -1,7 +1,7 @@
 # 图片上传
 ## Vue3+ElementPlus+阿里云对象存储OSS
 ### 获取accessKeyId、accessKeySecret、以及域名可参考[https://blog.csdn.net/lovoo/article/details/118018387](https://blog.csdn.net/lovoo/article/details/118018387)
-### 因为使用到阿里云对象存储，使用头像修改功能的key改动了
+
 * 购买阿里云对象存储
 * 查看app...key 和ID
 * yarn add ali-oss/npm install ali-oss
