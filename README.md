@@ -5,7 +5,8 @@
 * 购买阿里云对象存储
 * 查看app...key 和ID
 * yarn add ali-oss/npm install ali-oss
-``` template
+1.HTML代码片段
+``` HTML
 <el-upload
         action="#"
         list-type="picture-card"
@@ -32,7 +33,7 @@
         </template>
     </el-upload>
 ```
-
+2.JavaScript代码片段
 ``` JavaScript
 import { ref, reactive, getCurrentInstance } from "vue";
 import { ElMessage } from "element-plus";
